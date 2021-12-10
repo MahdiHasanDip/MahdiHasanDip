@@ -13,4 +13,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihasandip&show_icons=true&locale=en&layout=compact" alt="mahdihasandip" /></p>
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiHasanDip&show_icons=true)  
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahdiHasanDip)  
+
+
+
