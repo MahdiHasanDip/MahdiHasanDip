@@ -13,3 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdihasandip&show_icons=true&locale=en&layout=compact" alt="mahdihasandip" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiHasanDip&show_icons=true)  
